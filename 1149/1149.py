@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/1149
+
 import sys
 
 N = int(sys.stdin.readline())
