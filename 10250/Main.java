@@ -22,6 +22,7 @@ public class Main {
 				W = Integer.parseInt(st.nextToken());
 				N = Integer.parseInt(st.nextToken());
 				
+				
 				int x = N / H;
 				int y = N % H;
 				
