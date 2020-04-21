@@ -15,5 +15,4 @@ for i in range(1, N):
             desc[i] = desc[j] + 1
 for i in range(N):
     bitonic[i] = inc[i] + desc[(N - 1) - i] - 1
-
 print(max(bitonic))
